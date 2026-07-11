@@ -1,12 +1,12 @@
 ## Matheus G Benevides
 
-Desenvolvedor Full Stack em formação, focado na construção de soluções eficientes, escaláveis e bem estruturadas.
+Desenvolvedor Full Stack em formação, focado na construção de sistemas eficientes, escaláveis e bem estruturadas.
 
 ## 🎓 Sobre Mim
 
 Sou estudante de **Sistemas de Informação** com formação técnica em **Desenvolvimento de Sistemas**.
 
-Tenho 19 anos e foco em desenvolver **aplicações completas**, aplicando boas práticas, organização de código e desenvolvimento profissional.
+Tenho 20 anos e foco em desenvolver sistemas, aplicando boas práticas, organização de código e desenvolvimento profissional.
 
 Atualmente busco evoluir através da construção de **projetos práticos**
 
