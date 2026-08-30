@@ -1,6 +1,7 @@
 ## Matheus G Benevides
 
-Desenvolvedor Full Stack em formação, focado na construção de sistemas eficientes, escaláveis e bem estruturadas.
+Desenvolvedor Full Stack.
+**Portfólio:** https://matheus.gonbene.com.br/
 
 ## 🎓 Sobre Mim
 
@@ -8,7 +9,7 @@ Sou estudante de **Sistemas de Informação** com formação técnica em **Desen
 
 Tenho 20 anos e foco em desenvolver sistemas, aplicando boas práticas, organização de código e desenvolvimento profissional.
 
-Atualmente busco evoluir através da construção de **projetos práticos**
+Atualmente busco evoluir através da construção de **projetos práticos**.
 
 
 ## 🛠️ Stack
@@ -25,17 +26,21 @@ Atualmente busco evoluir através da construção de **projetos práticos**
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ## 📫 Contato
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgoncalvesbenevides@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathgb10)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mth.benevides)
----
-
-⭐ Sempre em busca de evolução na área. ⭐
